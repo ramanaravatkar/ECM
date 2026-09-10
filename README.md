@@ -1,2 +1,0 @@
-# ECM
-Enterprise content management 
