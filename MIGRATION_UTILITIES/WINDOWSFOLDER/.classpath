@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/new_workspace/gstflow/EsunDataMigration/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/new_workspace/gstflow/EsunDataMigration/lib/commons-compress-1.26.1.jar"/>
+	<classpathentry kind="lib" path="D:/new_workspace/gstflow/EsunDataMigration/lib/commons-io-2.16.1.jar"/>
+	<classpathentry kind="lib" path="D:/new_workspace/gstflow/EsunDataMigration/lib/curvesapi-1.08.jar"/>
+	<classpathentry kind="lib" path="D:/new_workspace/gstflow/EsunDataMigration/lib/Jace.jar"/>
+	<classpathentry kind="lib" path="D:/new_workspace/gstflow/EsunDataMigration/lib/json-20240303.jar"/>
+	<classpathentry kind="lib" path="D:/new_workspace/gstflow/EsunDataMigration/lib/log4j-api-2.24.3.jar"/>
+	<classpathentry kind="lib" path="D:/new_workspace/gstflow/EsunDataMigration/lib/log4j-core-2.24.3.jar"/>
+	<classpathentry kind="lib" path="D:/new_workspace/gstflow/EsunDataMigration/lib/poi-5.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/new_workspace/gstflow/EsunDataMigration/lib/poi-ooxml-5.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/new_workspace/gstflow/EsunDataMigration/lib/poi-ooxml-lite-5.2.5.jar"/>
+	<classpathentry kind="lib" path="D:/new_workspace/gstflow/EsunDataMigration/lib/stax-api.jar"/>
+	<classpathentry kind="lib" path="D:/new_workspace/gstflow/EsunDataMigration/lib/xlxpScanner.jar"/>
+	<classpathentry kind="lib" path="D:/new_workspace/gstflow/EsunDataMigration/lib/xlxpScannerUtils.jar"/>
+	<classpathentry kind="lib" path="D:/new_workspace/gstflow/EsunDataMigration/lib/xmlbeans-5.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
