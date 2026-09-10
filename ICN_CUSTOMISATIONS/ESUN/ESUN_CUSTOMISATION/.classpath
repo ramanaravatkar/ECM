@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/Jace.jar"/>
+	<classpathentry kind="lib" path="lib/stax-api.jar"/>
+	<classpathentry kind="lib" path="lib/xlxpScanner.jar"/>
+	<classpathentry kind="lib" path="lib/xlxpScannerUtils.jar"/>
+	<classpathentry kind="lib" path="lib/navigatorAPI.jar"/>
+	<classpathentry kind="lib" path="lib/j2ee.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Venkata Ramana/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.18.v20260205-1224/jre/lib/jrt-fs.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
