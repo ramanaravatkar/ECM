@@ -1,0 +1,63 @@
+# ============================================
+# FileNet Connection
+# ============================================
+
+ce.uri=<FILENET_CE_URI>
+username=<FILENET_USERNAME>
+password=<ENCRYPTED_PASSWORD>
+stanza=FileNetP8WSI
+objectstore=<OBJECT_STORE>
+
+
+# ============================================
+# Migration
+# ============================================
+
+# Common folder containing BOTH CB and PB customer folders
+source.root=<SOURCE_ROOT_DIRECTORY>
+
+
+# Target / Processed Location
+processed.location=<PROCESSED_LOCATION>
+
+target.folder=<TARGET_FOLDER>
+
+document.class=ESUN
+
+
+# ============================================
+# Metadata Excel Files
+# ============================================
+
+# Multiple Excel files are supported.
+# Separate the paths using ;
+
+cb.excel.path=<CB_EXCEL_FILE>
+
+pb.excel.path=<PB_EXCEL_FILE>
+
+
+date.format=yyyyMMdd
+
+
+# ============================================
+# Properties - Symbolic Names
+# ============================================
+
+symbol.documentTitle=DocumentTitle
+symbol.customerName=CustomerName
+symbol.customerID=Customer__ID
+symbol.accountNumber=AccountNumberNew
+symbol.countryOfIncorporationBirth=CountryOfIncorporationBirth
+symbol.businessRegistrationCertificate=BusinessRegistrationCertificate
+symbol.passportNo=PassportNo
+symbol.identityNumber=IdentityNumber
+symbol.accountOpeningDate=Account_Opening_Date
+symbol.w8BenDate=W8_BEN_DATE
+symbol.businessUnit=BusinessUnit
+symbol.rmID=RM_Code
+symbol.accountClosed=AccountClosed
+symbol.mainDocumentType=MainDocumentType
+symbol.subDocumentType=SubDocumentType1
+symbol.shareholderName=Shareholder_Name
+symbol.typeOfUpdate=TypeofUpdate

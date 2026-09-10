@@ -1,0 +1,25 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Build output
+bin/
+target/
+
+# Runtime logs
+logs/
+
+# Compiled files
+*.class
+*.jar
+
+# AI/tool files
+.claude/
+
+# Environment-specific configuration
+Configfile/EsunConfig.properties
+
+# OS files
+.DS_Store
+Thumbs.db
